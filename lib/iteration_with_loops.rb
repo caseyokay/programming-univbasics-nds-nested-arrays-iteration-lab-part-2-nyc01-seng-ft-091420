@@ -16,5 +16,5 @@
     outer_results << min_integer
     row_index += 1 
   end 
-  
+end
   outer_results
